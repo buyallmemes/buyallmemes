@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-http://www.buyallmeme.com
+http://www.buyallmemes.com
 <!--
 **buyallmemes/buyallmemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
